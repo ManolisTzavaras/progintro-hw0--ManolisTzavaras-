@@ -1,2 +1,6 @@
 manolistzavaras.github.io
-
+$ cat solution.txt
+byte0 : you_just_mastered_changing_directories
+byte1 : supercalifragilisticexpialidocious
+byte2 : grep_and_you_will_find
+byte3 : programmers
