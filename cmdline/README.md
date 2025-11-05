@@ -8,5 +8,5 @@ byte5 : mkdir /tmp/.. φτιαχνει directory και μετα cp byte5.c/ tmp
 byte6 : mkdir και μετα cp και τελος unzip byte6.zip ( βασικα εκανα unzip -l για να βρω τους φακελους πρώτα αλλα you get the spirit)
 byte7 : παρομοιο με το byte6 μόνο που αντι για unzip γράφουμε αλλη εντολη την tar -xf byte7.tar.gz 
 byte8 : απλα κανεις vim carriage_return.txt και αυτό ειναι βασικα...
-byte9 : κανουμε cat ./ για να το "τρεξουμε" και μετα βαζουεμ την εντολη sort για να τα ταξινόμηση αλφαβητικά 
+byte9 : κανουμε cat ./ για να το "τρεξουμε" και μετα βάζουμε την εντολη sort για να τα ταξινόμηση αλφαβητικά 
 byte10 : 
