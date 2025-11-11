@@ -9,4 +9,4 @@ byte6 : mkdir και μετα cp και τελος unzip byte6.zip ( βασικ�
 byte7 : παρομοιο με το byte6 μόνο που αντι για unzip γράφουμε αλλη εντολη την tar -xf byte7.tar.gz 
 byte8 : απλα κανεις vim carriage_return.txt και αυτό ειναι βασικα...
 byte9 : κανουμε cat ./ για να το "τρεξουμε" και μετα βάζουμε την εντολη sort για να τα ταξινόμηση αλφαβητικά 
-byte10 : 
+byte10 : εκανα sort -h names.txt ωστε να φτιαξει τα ονοματα με αλφαβητικη σειρα και μετα head -42 για να μου πει το 42ο ονομα(αρχειο) byte11 : mkdir/tmp/7 μετα ιδια εντολη με πριν sort ..|.. μετα uniq -c/tmp... byte12 : which tuxsay για να το βρει byte13 : cd repo ,μετα git log και τελος byte14 : git log, git show (το byte15 δεν καταφερα να το κανω )
