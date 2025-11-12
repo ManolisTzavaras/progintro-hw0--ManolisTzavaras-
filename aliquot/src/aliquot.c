@@ -2,7 +2,8 @@
 #include <stdio.h>
 
 int sum_of_proper_divisors(int n) {
-    if(n <= 1) return 0;
+    if(n <= 1) 
+        return 0;
     int sum = 1; // 1 is a proper divisor of any n > 1
     for(int i = 2; i * i <= n; i++) {
         if(n % i == 0) {
